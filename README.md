@@ -41,9 +41,9 @@ mylistview.setOnScrollListener(new AbsListView.OnScrollListener() {
 
 ## Author
 
- * 이용범(LeeYongBeam)
+ * 이용범(LeeYongBeom)
  * Mail: [ray@travelking.kr](mailto://ray@travelking.kr)
- * Web: [www.travelking.kr](http://www.travelking.kr)
+ * Web: [www.travelking.kr](https://www.travelking.kr)
 
 ## License
 Apache License
