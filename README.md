@@ -46,7 +46,7 @@ mylistview.setOnScrollListener(new AbsListView.OnScrollListener() {
  * Web: [www.travelking.kr](https://www.travelking.kr)
 
 ## License
-    Copyright (c) 2016 Anton LeeYongBeom
+    Copyright (c) 2016 LeeYongBeom
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
