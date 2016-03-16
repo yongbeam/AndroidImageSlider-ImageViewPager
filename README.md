@@ -9,7 +9,9 @@ AndroidImageSlider ViewPagerList
 ## Tutorial
 Add the library to your project
 ```
-compile project(':imagersliderlib')
+dependencies {
+     compile 'com.imagersliderlib:AndroidImageSlider-ImageViewPager:0.1.0'
+}
 ```
 
 add images
