@@ -1,3 +1,8 @@
+# DEPRECATED PROJECT
+더이상 업데이트를 제공하지 않습니다.
+최신 안드로이드 가이드를 통하면 손쉽게 구현할 수 있습니다. 이 프로젝트는 더이상 참고하지 말아주세요
+
+
 # AndroidImageSlider-ImageViewPager
 AndroidImageSlider ViewPagerList
 
